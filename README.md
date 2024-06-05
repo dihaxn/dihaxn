@@ -9,7 +9,8 @@
 🖥️ Java
 🗄️ MySQL
 🍃 MongoDB
-
+📄 Javascript
+    
 
 
 
