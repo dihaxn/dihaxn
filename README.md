@@ -128,6 +128,8 @@
 </br>
 </br>
 
+---
+
 <!-- Most Used Languages Section -->
 <h3 align="center">Most Used Languages:</h3>
 <p align="center">
