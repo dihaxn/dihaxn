@@ -1,27 +1,29 @@
-<!-- Typing SVG Header -->  
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&weight=700&size=40&duration=3000&pause=1000&color=28B463&center=true&vCenter=true&width=1200&lines=👋+Hey+there%2C+I'm+Dihan+Laknuka;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</a>
+<!-- Typing SVG Header -->
+<a href="https://git.io/typing-svg">  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=30&duration=3000&pause=1000&color=28B463&center=true&vCenter=true&width=1000&lines=👋+Hey+there%2C+I'm+Dihan+Laknuka;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />  
+</a>  
 
----  
-
+<!-- Profile Views -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20views&color=0e75b6&style=flat" alt="dihaxn" /> 
+  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20views&color=28B463&style=flat" alt="dihaxn" /> 
 </p>
 
-<p align="center"> 
+<!-- GitHub Trophies -->
+<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dihaxn" alt="dihaxn" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dihaxn&theme=onedark&row=1&column=7" alt="dihaxn" />
   </a> 
 </p>
 
+<!-- Twitter Follow -->
 <p align="left"> 
   <a href="https://twitter.com/dihaxn" target="blank">
-    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge" alt="dihaxn" />
+    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=28B463" alt="dihaxn" />
   </a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- Connect with Me -->
+<h3 align="left" style="font-family: 'Outfit', sans-serif; color: #28B463;">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/dihaxn" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dihaxn" height="30" width="40" />
@@ -37,12 +39,8 @@
   </a>
 </p>
 
-
----  
-
-
 <!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="font-family: 'Outfit', sans-serif; color: #28B463;">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -120,31 +118,26 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-</br>
-</br>
 
-<h3 align="left">Support:</h3>
+<!-- Support Section -->
+<h3 align="left" style="font-family: 'Outfit', sans-serif; color: #28B463;">Support:</h3>
 <p align="left">
   <a href="https://www.buymeacoffee.com/ihanlaknukl"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
-</br>
 
----
+<br/>
 
 <!-- Most Used Languages Section -->
-<h3 align="center">Most Used Languages:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&show_icons=true&locale=en&layout=compact&theme=radical" alt="dihaxn" />
+<h3 align="left" style="font-family: 'Outfit', sans-serif; color: #28B463;">Most Used Languages:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dihaxn" />
 </p>
 
 <!-- GitHub Stats Section -->
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&locale=en&theme=radical" alt="dihaxn" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihaxn&theme=radical" alt="dihaxn" />
+<h3 align="left" style="font-family: 'Outfit', sans-serif; color: #28B463;">GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&locale=en&theme=onedark" alt="dihaxn" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihaxn&theme=onedark" alt="dihaxn" />
 </p>
-
-<!-- Theme Colors -->
-<!-- Suggested Theme Colors: Radical, Merko, Gruvbox, Tokyonight, Onedark, Cobalt, Synthwave, Highcontrast, Dracula -->
