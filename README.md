@@ -4,6 +4,7 @@
 </a>
 
 ---  
+<br/>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20views&color=0e75b6&style=flat" alt="dihaxn" /> 
@@ -37,6 +38,7 @@
   </a>
 </p>
 
+<br/>
 
 <!-- Support Section -->
 <h3 align="left">Support:</h3>
@@ -45,6 +47,7 @@
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
+
 <br/>
 <br/>
 
@@ -132,16 +135,23 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-</br>
-</br>
+
+<br/>
+<br/>
 
 ---
+
+<br/>
+<br/>
 
 <!-- Most Used Languages Section -->
 <h3 align="center">Most Used Languages:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&show_icons=true&locale=en&layout=compact&theme=radical" alt="dihaxn" />
 </p>
+
+<br/>
+<br/>
 
 <!-- GitHub Stats Section -->
 <h3 align="center">GitHub Stats:</h3>
