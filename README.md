@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<br/>
+
 
 <!-- Support Section -->
 <h3 align="left">Support:</h3>
@@ -47,7 +47,8 @@
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
-
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -135,12 +136,11 @@
 </p>
 
 <br/>
-<br/>
+
 
 ---
 
-<br/>
-<br/>
+
 
 <!-- Most Used Languages Section -->
 <h3 align="center">Most Used Languages:</h3>
@@ -148,7 +148,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&show_icons=true&locale=en&layout=compact&theme=radical" alt="dihaxn" />
 </p>
 
-<br/>
 <br/>
 
 <!-- GitHub Stats Section -->
