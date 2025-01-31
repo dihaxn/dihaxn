@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge" alt="dihaxn" />
   </a> 
 </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/dihaxn" target="blank">
