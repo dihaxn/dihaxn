@@ -46,7 +46,7 @@
 </p>
 </br>
 
----  <!-- Horizontal line -->
+---  
 
 
 <!-- Languages and Tools Section -->
