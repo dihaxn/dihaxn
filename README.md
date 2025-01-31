@@ -38,7 +38,6 @@
 </p>
 
 
-<!-- Support Section -->
 <h3 align="left">Support:</h3>
 <p align="left">
   <a href="https://www.buymeacoffee.com/ihanlaknukl"> 
@@ -47,7 +46,8 @@
 </p>
 </br>
 
----
+---  <!-- Horizontal line -->
+
 
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
