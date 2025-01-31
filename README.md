@@ -142,8 +142,8 @@
 <!-- GitHub Stats Section -->
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&locale=en&theme=radical" alt="GitHub Stats for dihaxn" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihaxn&theme=radical" alt="GitHub Streak Stats for dihaxn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&locale=en&theme=radical" alt="dihaxn" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihaxn&theme=radical" alt="dihaxn" />
 </p>
 
 <!-- Theme Colors -->
