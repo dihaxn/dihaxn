@@ -36,6 +36,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dihaxn" height="30" width="40" />
   </a>
 </p>
+</br>
 
 <!-- Support Section -->
 <h3 align="left">Support:</h3>
@@ -44,6 +45,7 @@
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
+
 ---
 
 <!-- Languages and Tools Section -->
