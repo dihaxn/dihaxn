@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dihan Laknuka</h1>
+<!-- Typing SVG Header -->  
+<a href="https://git.io/typing-svg">  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=30&duration=3000&pause=5000&color=28B463&center=true&vCenter=true&width=1000&lines=👋+Hey+there%2C+I'm+Dihan+Laknuka" alt="Typing SVG" />  
+</a>  
+
+---  
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20views&color=0e75b6&style=flat" alt="dihaxn" /> 
