@@ -4,7 +4,7 @@
 </a>
 
 ---  
-<br/>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20views&color=0e75b6&style=flat" alt="dihaxn" /> 
@@ -47,7 +47,6 @@
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -147,8 +146,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&show_icons=true&locale=en&layout=compact&theme=radical" alt="dihaxn" />
 </p>
-
-<br/>
 
 <!-- GitHub Stats Section -->
 <h3 align="center">GitHub Stats:</h3>
