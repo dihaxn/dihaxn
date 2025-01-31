@@ -44,13 +44,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<!-- Most Used Languages Section -->
-<h3 align="left">Most Used Languages:</h3>
-<p align="left">
-  <!-- Add your most used languages here -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&show_icons=true&locale=en&layout=compact&theme=radical" alt="dihaxn" />
-</p>
-
 <!-- Support Section -->
 <h3 align="left">Support:</h3>
 <p align="left">
@@ -59,6 +52,17 @@
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
+
+<br/>
+
+<!-- Most Used Languages Section -->
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <!-- Add your most used languages here -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&show_icons=true&locale=en&layout=compact&theme=radical" alt="dihaxn" />
+</p>
+
+
 
 <!-- GitHub Stats Section -->
 <h3 align="left">GitHub Stats:</h3>
