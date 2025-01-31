@@ -125,16 +125,17 @@
   </a>
 </p>
 
-<br/>
+</br>
+</br>
 
 <!-- Most Used Languages Section -->
-<h3 align="left">Most Used Languages:</h3>
+<h3 align="center">Most Used Languages:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&show_icons=true&locale=en&layout=compact&theme=radical" alt="dihaxn" />
 </p>
 
 <!-- GitHub Stats Section -->
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&locale=en&theme=radical" alt="dihaxn" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihaxn&theme=radical" alt="dihaxn" />
