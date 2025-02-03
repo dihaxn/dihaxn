@@ -136,8 +136,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&locale=en&theme=radical" alt="dihaxn" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihaxn&theme=radical" alt="dihaxn" />
-</p>
 <!-- Theme Colors -->
 <!-- Suggested Theme Colors: Radical, Merko, Gruvbox, Tokyonight, Onedark, Cobalt, Synthwave, Highcontrast, Dracula -->
