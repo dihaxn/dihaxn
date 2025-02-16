@@ -6,30 +6,41 @@
 ---  
 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20views&color=0e75b6&style=flat" alt="dihaxn" /> 
-</p>
-<p align="left"> 
-  <a href="https://twitter.com/dihaxn" target="blank">
-    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge" alt="dihaxn" />
-  </a> 
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- GitHub -->
+  <a href="https://github.com/dihaxn" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" />
+  </a>
+  <!-- Twitter -->
   <a href="https://twitter.com/dihaxn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dihaxn" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" width="40" />
   </a>
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/dihan-laknuka-125374269" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dihan-laknuka-125374269" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" />
   </a>
+  <!-- Facebook -->
   <a href="https://fb.com/dihaxn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dihaxn" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="40" width="40" />
   </a>
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/dihaxn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dihaxn" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=hackerrank" alt="hackerrank" height="40" width="40" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/dihaxn" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" />
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.gg/dihaxn" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="40" width="40" />
+  </a>
+  <!-- Email -->
+  <a href="mailto:your-email@example.com" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="40" width="40" />
   </a>
 </p>
-
 
 
 <!-- Support Section -->
