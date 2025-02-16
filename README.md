@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&weight=700&size=40&duration=3000&pause=1000&color=28B463&center=true&vCenter=true&width=1200&lines=👋+Hey+there%2C+I'm+Dihan+Laknuka;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </a>
 
-<br/>
+---
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20views&color=0e75b6&style=flat" alt="dihaxn" /> 
@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge" alt="dihaxn" />
   </a> 
 </p>
----
 
 <h3 align="left">☕ Support:</h3>
 <p align="left">
@@ -27,7 +26,7 @@
 <h3 align="left">🛠️ Tech Stack:</h3>
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=aws,docker,cpp,cs,java,js,ts,css,html,tailwind,php,git,mongodb,mysql,nodejs,react,spring,figma,postman&perline=10" 
+    src="https://skillicons.dev/icons?i=aws,docker,cpp,cs,java,js,ts,css,html,tailwind,php,git,mongodb,mysql,nodejs,react,spring,figma,postman,jenkins&perline=10" 
     alt="tech stack" 
     style="margin: 2px;" 
   />
@@ -43,7 +42,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
-
----
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dihaxn&theme=radical)](https://git.io/streak-stats)
