@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="150px">
-</p>
+
 
 
 ---
@@ -10,6 +8,9 @@
   <a href="https://twitter.com/dihaxn" target="blank">
     <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=1DA1F2" alt="dihaxn" />
   </a> 
+</p>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="150px">
 </p>
 
 
