@@ -6,7 +6,14 @@
 ---
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20views&color=0e75b6&style=flat" alt="dihaxn" /> <br/>
+  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=PROFILE+VISITS&color=28B463&style=for-the-badge" alt="dihaxn" /> 
+  <a href="https://twitter.com/dihaxn" target="blank">
+    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=1DA1F2" alt="dihaxn" />
+  </a> 
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20views&color=0e75b6&style=flat" alt="dihaxn" />
   <a href="https://twitter.com/dihaxn" target="blank">
     <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge" alt="dihaxn" />
   </a> 
@@ -35,12 +42,11 @@
 ---
 
 <h3 align="left">📈 GitHub Stats:</h3>
-<p align="left">
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=dark&bg_color=000000&title_color=28B463&icon_color=28B463&border_color=28B463" width="49%" alt="Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=radical" alt="Most Used Languages" />
+<p align="canter">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=dark&bg_color=000000&title_color=28B463&text_color=28B463&border_color=28B463" alt="Most Used Languages" />
 </p>
 
