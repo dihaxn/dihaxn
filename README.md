@@ -1,3 +1,51 @@
+<!-- Typing SVG Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&weight=700&size=40&duration=3000&pause=1000&color=28B463&center=true&vCenter=true&width=1200&lines=👋+Hey+there%2C+I'm+Dihan+Laknuka;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</a>
+
+---
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20views&color=0e75b6&style=flat" alt="dihaxn" /> <br/>
+  <a href="https://twitter.com/dihaxn" target="blank">
+    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge" alt="dihaxn" />
+  </a> 
+</p>
+
+<h3 align="left">☕ Support:</h3>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/ihanlaknukl"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+<br/><br/><br/>
+
+---
+
+<h3 align="left">🛠️ Tech Stack:</h3>
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=aws,docker,cpp,cs,java,js,ts,css,html,tailwind,php,git,mongodb,mysql,nodejs,react,spring,figma,postman,jenkins&perline=10" 
+    alt="tech stack" 
+    style="margin: 2px;" 
+  />
+</p>
+
+---
+
+<h3 align="left">📈 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=radical" alt="dihaxn" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dihaxn&theme=radical)](https://git.io/streak-stats)
+
+
 <!-- Alternative Streak Solution :cite[3]:cite[6] -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=dark&background=000000&border=28B463&stroke=28B463&ring=28B463&fire=FF0000&currStreakNum=28B463&sideNums=28B463&currStreakLabel=28B463)](https://git.io/streak-stats)
 
@@ -6,8 +54,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=dark&bg_color=000000&title_color=28B463&icon_color=28B463&border_color=28B463" width="49%" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=dark&bg_color=000000&title_color=28B463&border_color=28B463" width="49%" alt="Top Languages" />
 </p>
-
-<!-- Matrix Effect Footer -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" alt="matrix-effect" />
-</div>
