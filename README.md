@@ -40,6 +40,6 @@
 </p>
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=dark&bg_color=000000&title_color=28B463&border_color=28B463" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
