@@ -40,7 +40,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=dark&bg_color=000000&title_color=28B463&icon_color=28B463&border_color=28B463" width="49%" alt="Stats" />
 </p>
 
-<p align="canter">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=dark&bg_color=000000&title_color=28B463&text_color=28B463&border_color=28B463" alt="Most Used Languages" />
 </p>
 
