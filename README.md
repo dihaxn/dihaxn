@@ -1,4 +1,8 @@
+---
 
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="150px">
+</p>
 
 
 ---
@@ -8,9 +12,6 @@
   <a href="https://twitter.com/dihaxn" target="blank">
     <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=1DA1F2" alt="dihaxn" />
   </a> 
-</p>
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="150px">
 </p>
 
 
@@ -45,3 +46,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=dark&bg_color=000000&title_color=28B463&text_color=28B463&border_color=28B463" alt="Most Used Languages" />
 </p>
 
+---
