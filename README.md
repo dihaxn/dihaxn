@@ -12,11 +12,6 @@
   </a> 
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/dihaxn" target="blank">
-    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge" alt="dihaxn" />
-  </a> 
-</p>
 
 <h3 align="left">☕ Support:</h3>
 <p align="left">
