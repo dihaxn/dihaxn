@@ -1,4 +1,8 @@
+---
 
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="150px">
+</p>
 
 ---
 
@@ -24,7 +28,7 @@
 <h3 align="left">🛠️ Tech Stack:</h3>
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=aws,docker,cpp,cs,java,js,ts,css,html,tailwind,php,git,mongodb,mysql,nodejs,react,spring,figma,postman,jenkins&perline=10" 
+    src="https://skillicons.dev/icons?i=aws,docker,cpp,cs,java,js,ts,css,html,tailwind,php,laravel,git,mongodb,mysql,nodejs,react,redux,spring,figma,postman,jenkins&perline=10" 
     alt="tech stack" 
     style="margin: 2px;" 
   />
@@ -43,9 +47,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="150px">
-</p>
 
-
----
