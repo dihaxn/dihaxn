@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Cosmic+Visitors&color=7B2CBF&style=flat-square">
   <a href="https://twitter.com/dihaxn">
     <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=9D4EDD&labelColor=000000">
@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 Support My Journey
-<p align="center">
+<p align="left">
   <a href="https://www.buymeacoffee.com/ihanlaknukl">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
   </a>
