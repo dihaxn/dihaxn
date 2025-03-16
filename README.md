@@ -1,5 +1,6 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=100&section=header&reversal=true&animation=twinkling">
+<br/>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Problem+Solver">
@@ -48,8 +49,6 @@
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=dihaxn&color=7B2CBF&radius=15&colorA=9D4EDD&colorB=7B2CBF" alt="Contribution Snake">
-</p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer&animation=twinkling">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer&animation=twinkling">
 </p>
