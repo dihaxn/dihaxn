@@ -35,6 +35,7 @@
 ### 📊 Cosmic Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=dark&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=FFFFFF&border_color=7B2CBF" width="49%">
+<br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=dark&background=0D1117&border=7B2CBF&stroke=7B2CBF&dates=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9D4EDD" width="49%">
 </p>
 
