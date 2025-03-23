@@ -28,7 +28,7 @@
 
 ### ⚡ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,cpp,cs,java,js,ts,css,html,tailwind,php,laravel,git,mongodb,mysql,nodejs,express,react,redux,spring,figma,postman,jenkins&perline=12">
+  <img src="https://skillicons.dev/icons?i=aws,docker,cpp,cs,java,js,ts,css,html,tailwind,php,laravel,git,mongodb,mysql,nodejs,express,react,redux,spring,figma,postman,swagger,jenkins&perline=12">
 </p>
 
 ---
