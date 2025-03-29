@@ -1,17 +1,17 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=100&section=header&reversal=true&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=2962FF&height=100&section=header&reversal=true&animation=twinkling">
 <br/>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Problem+Solver">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=00B0FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Problem+Solver">
 </p>
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Cosmic+Visitors&color=7B2CBF&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Cosmic+Visitors&color=2962FF&style=flat-square">
   <a href="https://twitter.com/dihaxn">
-    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=9D4EDD&labelColor=000000">
+    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=00B0FF&labelColor=000000">
   </a>
 </p>
 
@@ -33,22 +33,21 @@
 
 ---
 
-### 📊 Cosmic Stats
+### 📊 Cyber Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=dark&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=FFFFFF&border_color=7B2CBF" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=dark&bg_color=0D1117&title_color=00B0FF&icon_color=2962FF&text_color=FFFFFF&border_color=2962FF" width="49%">
 <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=dark&background=0D1117&border=7B2CBF&stroke=7B2CBF&dates=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9D4EDD" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=dark&background=0D1117&border=2962FF&stroke=2962FF&dates=00B0FF&ring=00B0FF&fire=00B0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00B0FF" width="49%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&border_color=7B2CBF">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=dark&bg_color=0D1117&title_color=00B0FF&text_color=FFFFFF&border_color=2962FF">
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Code Serpent
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=dihaxn&color=7B2CBF&radius=15&colorA=9D4EDD&colorB=7B2CBF" alt="Contribution Snake">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer&animation=twinkling">
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=dihaxn&color=2962FF&radius=15&colorA=00B0FF&colorB=2962FF" alt="Contribution Snake">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=2962FF&height=120&section=footer&animation=twinkling">
 </p>
