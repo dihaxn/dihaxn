@@ -1,54 +1,47 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=100&section=header&reversal=true&animation=twinkling">
-<br/>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Problem+Solver">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=150&section=header&text=dihaxn%20👨💻&fontSize=40&fontColor=ffffff&animation=twinkling">
 </p>
 
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Cosmic+Visitors&color=7B2CBF&style=flat-square">
-  <a href="https://twitter.com/dihaxn">
-    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=9D4EDD&labelColor=000000">
-  </a>
-</p>
-
----
-
-### 🚀 Support My Journey
-<p align="left">
-  <a href="https://www.buymeacoffee.com/ihanlaknukl">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
-  </a>
-</p>
-
----
-
-### ⚡ Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,cpp,cs,java,js,ts,css,html,tailwind,php,laravel,git,mongodb,mysql,nodejs,express,react,redux,spring,figma,postman,jenkins,linux&perline=12">
-</p>
-
----
-
-### 📊 Cosmic Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=dark&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=FFFFFF&border_color=7B2CBF" width="49%">
-<br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=dark&background=0D1117&border=7B2CBF&stroke=7B2CBF&dates=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9D4EDD" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&border_color=7B2CBF">
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=dihaxn&color=7B2CBF&radius=15&colorA=9D4EDD&colorB=7B2CBF" alt="Contribution Snake">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer&animation=twinkling">
-
-</p>
+<div align="center">
+  
+  ![Cosmic Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  
+  ### **🛸 Tech Navigator**
+  *Full-Stack Developer • Cloud Architect • Open-Source Explorer*
+  
+  [![Twitter](https://img.shields.io/badge/Follow%20@dihaxn-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dihaxn)
+  [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/dihaxn)
+  
+  ---
+  
+  ### **🚀 Tech Warp Core**
+  <img src="https://skillicons.dev/icons?i=aws,docker,cs,java,js,ts,php,laravel,react,nodejs,express,mongodb,mysql,spring,git,linux&perline=8" alt="tech stack">
+  
+  ---
+  
+  ### **📡 Galactic Stats Station**
+  
+  | <a href="https://app.daily.dev/dihaxn"><img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=dark&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&hide_border=true" /></a> | <a href="https://github-readme-streak-stats.herokuapp.com/?user=dihaxn"><img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=dark&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=9D4EDD&fire=9D4EDD" /></a> |
+  |---|:---:|
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dihaxn&layout=compact&theme=dark&bg_color=0d1117&title_color=9d4edd&hide_border=true)
+  
+  ---
+  
+  ### **🌌 Contribution Nebula**
+  ![Contribution Grid](https://raw.githubusercontent.com/dihaxn/dihaxn/output/github-contribution-grid-snake.svg?theme=react-dark&color=9D4EDD&radius=15&size=2&colorA=7B2CBF&colorB=9D4EDD)
+  
+  ---
+  
+  ### **☕ Fuel My Interstellar Journey**
+  <p align="center">
+    <a href="https://www.buymeacoffee.com/ihanlaknukl">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+    </a>
+  </p>
+  
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer&animation=twinkling">
+  </p>
+</div>
