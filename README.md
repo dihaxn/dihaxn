@@ -1,36 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00F5FF&height=150&section=header&fontSize=50&fontColor=ffffff&animation=twinkling&text=IHAN%20LAKNUKL&desc=Full-Stack%20Developer&descSize=20&descAlignY=35">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=IHAN+LAKNUKL;Full-Stack+Developer;Cloud+Architect;Open+Source+Advocate" alt="Typing SVG">
+  </a>
 </p>
 
-<div align="center">
-  
-  [![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat&logo=Matrix&logoColor=00FFAB)](https://matrix.to/#/@dihaxn:matrix.org)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/dihaxn/)
-  [![Keybase](https://img.shields.io/badge/Keybase-3663EA?style=flat&logo=keybase&logoColor=white)](https://keybase.io/dihaxn)
-  
-  ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-  ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/dihaxn">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/dihaxn/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<details open>
-<summary><b>Core Technologies</b></summary>
-  
-| Category       | Technologies                                                                                                           |
-|----------------|------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**   | React, Next.js, Redux, Tailwind, Three.js, WebGL                                                                       |
-| **Backend**    | Node.js, Express, NestJS, Spring Boot, Laravel, GraphQL                                                                |
-| **Database**   | PostgreSQL, MongoDB, Redis, Firebase                                                                                  |
-| **DevOps**     | Docker, Kubernetes, AWS, GCP, Jenkins, GitHub Actions                                                                  |
-| **Testing**    | Jest, Cypress, Selenium, Postman                                                                                       |
-| **Tools**      | Git, VSCode, IntelliJ, Figma, Jira                                                                                    |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,aws,docker,kubernetes,graphql,postgres,mongodb,redis,git,tailwind,threejs,py,java,spring,figma&theme=dark&perline=9">
+</p>
 
-</details>
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=7B2CBF&icon_color=9D4EDD">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dihaxn&theme=radical&background=0D1117&hide_border=true&stroke=9D4EDD">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihaxn&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=7B2CBF">
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dihaxn&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true">
+</p>
 
 ---
 
@@ -39,21 +49,27 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">AI-Powered Code Review</h3>
+      <h3 align="center">Cloud Cost Optimizer</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/400x200/0F172A/00F5FF?text=AI+Code+Assistant" alt="Project Screenshot">
-        <p>Machine learning-based code analysis tool with GitHub integration</p>
-        <a href="#"><img src="https://img.shields.io/badge/View_Code-00F5FF?style=flat"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat"></a>
+        <a href="#">
+          <img src="https://via.placeholder.com/400x200/0D1117/7B2CBF?text=Cloud+Optimization" alt="Project Screenshot">
+        </a>
+        <p>AWS cost management tool with machine learning predictions</p>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat">
+        <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=fff&style=flat">
+        <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat">
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Real-Time Collaboration Suite</h3>
+      <h3 align="center">DevSecOps Pipeline</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/400x200/0F172A/00F5FF?text=Collab+Workspace" alt="Project Screenshot">
-        <p>WebRTC-based collaborative platform with CRDT synchronization</p>
-        <a href="#"><img src="https://img.shields.io/badge/View_Code-00F5FF?style=flat"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat"></a>
+        <a href="#">
+          <img src="https://via.placeholder.com/400x200/0D1117/7B2CBF?text=CI/CD+Pipeline" alt="Project Screenshot">
+        </a>
+        <p>Automated security scanning in CI/CD workflow</p>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat">
+        <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat">
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=flat">
       </div>
     </td>
   </tr>
@@ -61,12 +77,15 @@
 
 ---
 
-### 📈 Activity Radar
+### 🌐 Activity Graph
 
-```text
-🚧 Current Focus: Building Distributed Systems
-⏳ Week Breakdown:
-• Code          ███████████▌ 85% 
-• Review        ██████▎      35% 
-• Design        █████████▋   70% 
-• DevOps        ████████▉    80%
+```mermaid
+graph TD
+    A[Code] --> B{Review}
+    B -->|Approved| C[Test]
+    B -->|Changes| A
+    C --> D{Deploy}
+    D -->|Production| E[Monitor]
+    D -->|Rollback| A
+    E --> F[Optimize]
+    F --> A
