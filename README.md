@@ -1,91 +1,54 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=IHAN+LAKNUKL;Full-Stack+Developer;Cloud+Architect;Open+Source+Advocate" alt="Typing SVG">
-  </a>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=100&section=header&reversal=true&animation=twinkling">
+<br/>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Problem+Solver">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Cosmic+Visitors&color=7B2CBF&style=flat-square">
   <a href="https://twitter.com/dihaxn">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/dihaxn/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=9D4EDD&labelColor=000000">
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,aws,docker,kubernetes,graphql,postgres,mongodb,redis,git,tailwind,threejs,py,java,spring,figma&theme=dark&perline=9">
+### 🚀 Support My Journey
+<p align="left">
+  <a href="https://www.buymeacoffee.com/ihanlaknukl">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+  </a>
 </p>
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=7B2CBF&icon_color=9D4EDD">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dihaxn&theme=radical&background=0D1117&hide_border=true&stroke=9D4EDD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihaxn&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=7B2CBF">
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
+### ⚡ Tech Arsenal
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dihaxn&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true">
+  <img src="https://skillicons.dev/icons?i=aws,docker,cpp,cs,java,js,ts,css,html,tailwind,php,laravel,git,mongodb,mysql,nodejs,express,react,redux,spring,figma,postman,jenkins,linux&perline=12">
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 📊 Cosmic Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=dark&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=FFFFFF&border_color=7B2CBF" width="49%">
+<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=dark&background=0D1117&border=7B2CBF&stroke=7B2CBF&dates=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9D4EDD" width="49%">
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Cloud Cost Optimizer</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://via.placeholder.com/400x200/0D1117/7B2CBF?text=Cloud+Optimization" alt="Project Screenshot">
-        </a>
-        <p>AWS cost management tool with machine learning predictions</p>
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat">
-        <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=fff&style=flat">
-        <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat">
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">DevSecOps Pipeline</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://via.placeholder.com/400x200/0D1117/7B2CBF?text=CI/CD+Pipeline" alt="Project Screenshot">
-        </a>
-        <p>Automated security scanning in CI/CD workflow</p>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat">
-        <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat">
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=flat">
-      </div>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&border_color=7B2CBF">
+</p>
 
 ---
 
-### 🌐 Activity Graph
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=dihaxn&color=7B2CBF&radius=15&colorA=9D4EDD&colorB=7B2CBF" alt="Contribution Snake">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer&animation=twinkling">
 
-```mermaid
-graph TD
-    A[Code] --> B{Review}
-    B -->|Approved| C[Test]
-    B -->|Changes| A
-    C --> D{Deploy}
-    D -->|Production| E[Monitor]
-    D -->|Rollback| A
-    E --> F[Optimize]
-    F --> A
+</p>
