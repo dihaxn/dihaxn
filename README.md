@@ -1,54 +1,72 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=100&section=header&reversal=true&animation=twinkling">
-<br/>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Problem+Solver">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00F5FF&height=150&section=header&fontSize=50&fontColor=ffffff&animation=twinkling&text=IHAN%20LAKNUKL&desc=Full-Stack%20Developer&descSize=20&descAlignY=35">
 </p>
+
+<div align="center">
+  
+  [![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat&logo=Matrix&logoColor=00FFAB)](https://matrix.to/#/@dihaxn:matrix.org)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/dihaxn/)
+  [![Keybase](https://img.shields.io/badge/Keybase-3663EA?style=flat&logo=keybase&logoColor=white)](https://keybase.io/dihaxn)
+  
+  ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+  ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white)
+
+</div>
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Cosmic+Visitors&color=7B2CBF&style=flat-square">
-  <a href="https://twitter.com/dihaxn">
-    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=9D4EDD&labelColor=000000">
-  </a>
-</p>
+### 🛠️ Tech Stack
+
+<details open>
+<summary><b>Core Technologies</b></summary>
+  
+| Category       | Technologies                                                                                                           |
+|----------------|------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**   | React, Next.js, Redux, Tailwind, Three.js, WebGL                                                                       |
+| **Backend**    | Node.js, Express, NestJS, Spring Boot, Laravel, GraphQL                                                                |
+| **Database**   | PostgreSQL, MongoDB, Redis, Firebase                                                                                  |
+| **DevOps**     | Docker, Kubernetes, AWS, GCP, Jenkins, GitHub Actions                                                                  |
+| **Testing**    | Jest, Cypress, Selenium, Postman                                                                                       |
+| **Tools**      | Git, VSCode, IntelliJ, Figma, Jira                                                                                    |
+
+</details>
 
 ---
 
-### 🚀 Support My Journey
-<p align="left">
-  <a href="https://www.buymeacoffee.com/ihanlaknukl">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
-  </a>
-</p>
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AI-Powered Code Review</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200/0F172A/00F5FF?text=AI+Code+Assistant" alt="Project Screenshot">
+        <p>Machine learning-based code analysis tool with GitHub integration</p>
+        <a href="#"><img src="https://img.shields.io/badge/View_Code-00F5FF?style=flat"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat"></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Real-Time Collaboration Suite</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200/0F172A/00F5FF?text=Collab+Workspace" alt="Project Screenshot">
+        <p>WebRTC-based collaborative platform with CRDT synchronization</p>
+        <a href="#"><img src="https://img.shields.io/badge/View_Code-00F5FF?style=flat"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat"></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚡ Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,cpp,cs,java,js,ts,css,html,tailwind,php,laravel,git,mongodb,mysql,nodejs,express,react,redux,spring,figma,postman,jenkins,linux&perline=12">
-</p>
+### 📈 Activity Radar
 
----
-
-### 📊 Cosmic Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=dark&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=FFFFFF&border_color=7B2CBF" width="49%">
-<br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=dark&background=0D1117&border=7B2CBF&stroke=7B2CBF&dates=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9D4EDD" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&border_color=7B2CBF">
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=dihaxn&color=7B2CBF&radius=15&colorA=9D4EDD&colorB=7B2CBF" alt="Contribution Snake">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer&animation=twinkling">
-
-</p>
+```text
+🚧 Current Focus: Building Distributed Systems
+⏳ Week Breakdown:
+• Code          ███████████▌ 85% 
+• Review        ██████▎      35% 
+• Design        █████████▋   70% 
+• DevOps        ████████▉    80%
