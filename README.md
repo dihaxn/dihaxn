@@ -59,6 +59,7 @@
             background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            background-clip: text;
             transition: all var(--transition-speed);
         }
 
@@ -83,7 +84,7 @@
             position: absolute;
             background: white;
             border-radius: 50%;
-            animation: twinkle var(--duration, 3s) infinite var(--delay, 0s);
+            animation: twinkle 3s infinite;
             opacity: 0;
         }
 
@@ -133,6 +134,7 @@
             background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            background-clip: text;
             transition: all var(--transition-speed);
         }
 
@@ -162,6 +164,7 @@
             background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
 
         .section-title::after {
@@ -173,6 +176,12 @@
             height: 4px;
             background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
             border-radius: 2px;
+        }
+
+        .subtitle {
+            font-size: 1.4rem;
+            margin-bottom: 15px;
+            color: var(--text-dim);
         }
 
         /* Stats Grid */
@@ -205,6 +214,7 @@
             background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
 
         .stat-label {
@@ -312,6 +322,21 @@
             margin-bottom: 15px;
         }
 
+        .stat-placeholder {
+            height: 100px;
+            background: rgba(0, 217, 255, 0.1);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-dim);
+            font-style: italic;
+        }
+
+        .stat-placeholder::before {
+            content: "Stats loading...";
+        }
+
         /* Fun Facts */
         .facts-container {
             background: rgba(20, 25, 50, 0.5);
@@ -342,6 +367,7 @@
             background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
 
         /* Footer */
@@ -431,12 +457,8 @@
                 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Profile">
             </div>
             <div class="typing-container">
-                <div class="typing-text">
-                    🚀 Full-Stack Developer<br>
-                    🌟 Open-Source Enthusiast<br>
-                    💡 Problem Solver<br>
-                    🔥 Code Architect<br>
-                    ✨ Digital Innovator
+                <div class="typing-text" id="typing-text">
+                    🚀 Full-Stack Developer
                 </div>
             </div>
         </div>
@@ -505,7 +527,7 @@
                     <span class="skill-label">PHP</span>
                 </div>
                 <div class="skill-item">
-                    <i class="fab fa-go skill-icon"></i>
+                    <i class="fab fa-golang skill-icon"></i>
                     <span class="skill-label">Go</span>
                 </div>
             </div>
@@ -521,7 +543,7 @@
                     <span class="skill-label">Vue.js</span>
                 </div>
                 <div class="skill-item">
-                    <i class="fas fa-code skill-icon"></i>
+                    <i class="fab fa-html5 skill-icon"></i>
                     <span class="skill-label">HTML5</span>
                 </div>
                 <div class="skill-item">
@@ -622,62 +644,47 @@
                 star.style.width = `${size}px`;
                 star.style.height = `${size}px`;
                 
-                // Random animation
-                const duration = Math.random() * 5 + 3;
+                // Random animation delay
                 const delay = Math.random() * 5;
-                star.style.setProperty('--duration', `${duration}s`);
-                star.style.setProperty('--delay', `${delay}s`);
+                star.style.animationDelay = `${delay}s`;
                 
                 container.appendChild(star);
             }
         }
 
-        // Initialize on load
-        document.addEventListener('DOMContentLoaded', () => {
-            createStars();
+        // Typing animation for profile intro
+        function startTypingAnimation() {
+            const typingText = document.getElementById('typing-text');
+            const texts = [
+                '🚀 Full-Stack Developer',
+                '🌟 Open-Source Enthusiast',
+                '💡 Problem Solver',
+                '🔥 Code Architect',
+                '✨ Digital Innovator'
+            ];
             
-            // Add hover effect to all interactive elements
-            const interactiveElements = document.querySelectorAll(
-                '.stat-card, .connect-btn, .skill-item, .stats-card, .section'
-            );
-            
-            interactiveElements.forEach(el => {
-                el.addEventListener('mouseenter', () => {
-                    el.style.transition = 'all 0.3s ease';
-                });
-                
-                el.addEventListener('mouseleave', () => {
-                    el.style.transition = 'all 0.4s ease';
-                });
-            });
-            
-            // Animated typing effect
-            const typingText = document.querySelector('.typing-text');
-            const lines = typingText.innerHTML.split('<br>');
-            typingText.innerHTML = '';
-            
-            let lineIndex = 0;
+            let textIndex = 0;
             let charIndex = 0;
             let isDeleting = false;
             
             function type() {
-                const currentLine = lines[lineIndex];
+                const currentText = texts[textIndex];
                 
                 if (isDeleting) {
-                    typingText.innerHTML = currentLine.substring(0, charIndex - 1);
+                    typingText.textContent = currentText.substring(0, charIndex - 1);
                     charIndex--;
                     
                     if (charIndex === 0) {
                         isDeleting = false;
-                        lineIndex = (lineIndex + 1) % lines.length;
+                        textIndex = (textIndex + 1) % texts.length;
                         setTimeout(type, 500);
                         return;
                     }
                 } else {
-                    typingText.innerHTML = currentLine.substring(0, charIndex + 1);
+                    typingText.textContent = currentText.substring(0, charIndex + 1);
                     charIndex++;
                     
-                    if (charIndex === currentLine.length) {
+                    if (charIndex === currentText.length) {
                         isDeleting = true;
                         setTimeout(type, 2000);
                         return;
@@ -687,7 +694,26 @@
                 setTimeout(type, isDeleting ? 50 : 100);
             }
             
-            setTimeout(type, 1000);
+            type();
+        }
+
+        // Initialize on load
+        document.addEventListener('DOMContentLoaded', () => {
+            createStars();
+            startTypingAnimation();
+            
+            // Add smooth scroll behavior
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const target = document.querySelector(this.getAttribute('href'));
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth'
+                        });
+                    }
+                });
+            });
         });
     </script>
 </body>
