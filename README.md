@@ -1,219 +1,694 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=120&section=header&text=Welcome%20to%20My%20Universe&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Where%20Code%20Meets%20Creativity&descSize=18&descAlignY=60">
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cosmic Developer | dihaxn</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --cosmic-primary: #0a0a1a;
+            --cosmic-secondary: #001220;
+            --neon-blue: #00d9ff;
+            --neon-purple: #b967ff;
+            --text-light: #ffffff;
+            --text-dim: #a0aec0;
+            --transition-speed: 0.4s;
+        }
 
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px">
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=🚀+Full-Stack+Developer;🌟+Open-Source+Enthusiast;💡+Problem+Solver;🔥+Code+Architect;✨+Digital+Innovator">
-</div>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
 
----
+        body {
+            background: linear-gradient(135deg, var(--cosmic-primary), var(--cosmic-secondary));
+            color: var(--text-light);
+            min-height: 100vh;
+            overflow-x: hidden;
+            padding: 20px;
+        }
 
-<div align="center">
-  
-### 🌟 **Profile Analytics**
-  
-<img src="https://komarev.com/ghpvc/?username=dihaxn&label=Cosmic+Visitors&color=00D9FF&style=plastic&abbreviated=true">
-<img src="https://img.shields.io/github/followers/dihaxn?logo=github&style=plastic&color=00D9FF&labelColor=1a1a1a">
-<img src="https://img.shields.io/github/stars/dihaxn?logo=github&style=plastic&color=00D9FF&labelColor=1a1a1a">
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
 
-</div>
+        /* Header Animation */
+        .header {
+            position: relative;
+            border-radius: 20px;
+            overflow: hidden;
+            margin-bottom: 40px;
+            box-shadow: 0 10px 30px rgba(0, 217, 255, 0.1);
+            animation: cosmicPulse 6s infinite alternate;
+        }
 
----
+        .header-content {
+            padding: 50px 20px;
+            text-align: center;
+            position: relative;
+            z-index: 2;
+        }
 
-<div align="center">
-  
-### 🎯 **Connect With Me**
-  
-<a href="https://twitter.com/dihaxn">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a">
-</a>
-<a href="https://www.linkedin.com/in/dihanlaknuka/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a">
-</a>
-<a href="https://github.com/dihaxn">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a">
-</a>
-<a href="mailto:ihanlaknuka@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a">
-</a>
+        .header h1 {
+            font-size: 3rem;
+            margin-bottom: 15px;
+            background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            transition: all var(--transition-speed);
+        }
 
-</div>
+        .header p {
+            font-size: 1.3rem;
+            color: var(--text-dim);
+            max-width: 800px;
+            margin: 0 auto;
+            transition: all var(--transition-speed);
+        }
 
----
+        .stars {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+        }
 
-<div align="center">
-  
-### ☕ **Fuel My Code Journey**
-  
-<a href="https://www.buymeacoffee.com/ihanlaknukl">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=1a1a1a">
-</a>
-<a href="https://ko-fi.com/dihaxn">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1a1a">
-</a>
-<a href="https://github.com/sponsors/dihaxn">
-  <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=1a1a1a">
-</a>
+        .star {
+            position: absolute;
+            background: white;
+            border-radius: 50%;
+            animation: twinkle var(--duration, 3s) infinite var(--delay, 0s);
+            opacity: 0;
+        }
 
-</div>
+        /* Profile Intro */
+        .profile-intro {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 40px;
+            text-align: center;
+        }
 
----
+        .avatar {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 3px solid var(--neon-blue);
+            box-shadow: 0 0 30px rgba(0, 217, 255, 0.5);
+            overflow: hidden;
+            transition: all var(--transition-speed);
+            position: relative;
+        }
 
-<div align="center">
-  
-### 🛠️ **Tech Arsenal & Skills**
+        .avatar:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 50px rgba(0, 217, 255, 0.8);
+        }
 
-#### **Languages**
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,python,php,go&theme=dark&perline=8">
+        .avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
 
-#### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,bootstrap,sass&theme=dark&perline=8">
+        .typing-container {
+            min-height: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
 
-#### **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,flask,django,fastapi,graphql&theme=dark&perline=8">
+        .typing-text {
+            font-size: 1.8rem;
+            font-weight: bold;
+            text-align: center;
+            background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            transition: all var(--transition-speed);
+        }
 
-#### **Database & Cloud**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,gcp,azure,docker&theme=dark&perline=8">
+        /* Sections */
+        .section {
+            background: rgba(10, 15, 30, 0.6);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 40px;
+            border: 1px solid rgba(0, 217, 255, 0.1);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            transition: all var(--transition-speed);
+        }
 
-#### **Tools & Others**
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,jenkins,linux,vscode&theme=dark&perline=8">
+        .section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0, 217, 255, 0.2);
+            border-color: rgba(0, 217, 255, 0.3);
+        }
 
-</div>
+        .section-title {
+            font-size: 2rem;
+            margin-bottom: 25px;
+            position: relative;
+            display: inline-block;
+            background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
 
----
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 0;
+            width: 60px;
+            height: 4px;
+            background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
+            border-radius: 2px;
+        }
 
-<div align="center">
-  
-### 📊 **Cosmic Statistics**
+        /* Stats Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
 
-<img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=15&hide_border=false&include_all_commits=true&count_private=true" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=tokyonight&background=0D1117&border=00D9FF&stroke=00D9FF&dates=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&border_radius=15" width="48%">
+        .stat-card {
+            background: rgba(20, 25, 50, 0.5);
+            border-radius: 15px;
+            padding: 20px;
+            text-align: center;
+            transition: all var(--transition-speed);
+            border: 1px solid rgba(0, 217, 255, 0.1);
+        }
 
-</div>
+        .stat-card:hover {
+            transform: translateY(-8px);
+            background: rgba(30, 35, 60, 0.7);
+            box-shadow: 0 10px 25px rgba(0, 217, 255, 0.2);
+        }
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=15&hide_border=false&langs_count=10&card_width=600">
-</div>
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin: 10px 0;
+            background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
 
----
+        .stat-label {
+            color: var(--text-dim);
+            font-size: 1.1rem;
+        }
 
-<div align="center">
-  
-### 🏆 **GitHub Achievements**
+        /* Connect Grid */
+        .connect-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
 
-<img src="https://github-profile-trophy.vercel.app/?username=dihaxn&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4">
+        .connect-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            padding: 15px;
+            border-radius: 12px;
+            background: rgba(20, 25, 50, 0.5);
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all var(--transition-speed);
+            border: 1px solid rgba(0, 217, 255, 0.1);
+        }
 
-</div>
+        .connect-btn:hover {
+            transform: translateY(-5px);
+            background: rgba(30, 35, 60, 0.7);
+            box-shadow: 0 10px 25px rgba(0, 217, 255, 0.2);
+        }
 
----
+        .connect-btn.twitter { background: rgba(29, 161, 242, 0.15); }
+        .connect-btn.linkedin { background: rgba(10, 102, 194, 0.15); }
+        .connect-btn.github { background: rgba(24, 23, 23, 0.15); }
+        .connect-btn.email { background: rgba(220, 53, 69, 0.15); }
 
-<div align="center">
-  
-### 📈 **Activity Graph**
+        /* Skills Grid */
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dihaxn&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true">
+        .skill-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            padding: 15px;
+            border-radius: 12px;
+            background: rgba(20, 25, 50, 0.5);
+            transition: all var(--transition-speed);
+            border: 1px solid rgba(0, 217, 255, 0.1);
+        }
 
-</div>
+        .skill-item:hover {
+            transform: translateY(-5px) scale(1.1);
+            background: rgba(30, 35, 60, 0.7);
+            box-shadow: 0 10px 25px rgba(0, 217, 255, 0.2);
+        }
 
----
+        .skill-icon {
+            font-size: 2.5rem;
+            transition: all var(--transition-speed);
+        }
 
-<div align="center">
-  
-### 🐍 **Contribution Snake**
+        .skill-label {
+            font-size: 0.9rem;
+            text-align: center;
+            color: var(--text-dim);
+        }
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+        /* Stats Section */
+        .stats-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
 
-</div>
+        .stats-card {
+            background: rgba(20, 25, 50, 0.5);
+            border-radius: 15px;
+            padding: 20px;
+            transition: all var(--transition-speed);
+            border: 1px solid rgba(0, 217, 255, 0.1);
+        }
 
----
+        .stats-card:hover {
+            transform: translateY(-5px);
+            background: rgba(30, 35, 60, 0.7);
+            box-shadow: 0 10px 25px rgba(0, 217, 255, 0.2);
+        }
 
-<div align="center">
-  
-### 💭 **Random Dev Quote**
+        .stats-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=00D9FF">
+        /* Fun Facts */
+        .facts-container {
+            background: rgba(20, 25, 50, 0.5);
+            border-radius: 15px;
+            padding: 25px;
+            margin-top: 20px;
+            border: 1px solid rgba(0, 217, 255, 0.1);
+        }
 
-</div>
+        .fact-item {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid rgba(0, 217, 255, 0.1);
+        }
 
----
+        .fact-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
 
-<div align="center">
-  
-### 🎵 **Currently Vibing To**
+        .fact-icon {
+            font-size: 1.5rem;
+            min-width: 30px;
+            background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&count=3&width=600">
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 20px;
+            color: var(--text-dim);
+            font-size: 1.1rem;
+        }
 
-</div>
+        .footer a {
+            color: var(--neon-blue);
+            text-decoration: none;
+            transition: all var(--transition-speed);
+        }
 
----
+        .footer a:hover {
+            text-decoration: underline;
+            color: var(--neon-purple);
+        }
 
-<div align="center">
-  
-### 🌟 **Fun Facts About Me**
+        /* Animations */
+        @keyframes cosmicPulse {
+            0% { box-shadow: 0 0 30px rgba(0, 217, 255, 0.1); }
+            100% { box-shadow: 0 0 50px rgba(183, 103, 255, 0.3); }
+        }
 
-```yaml
-dihaxn:
-  - 🌍 Based in: "The Cloud"
-  - 🎯 Currently learning: "Everything I can get my hands on"
-  - 🎨 Hobbies: ["Coding", "Reading", "Gaming", "Coffee Tasting"]
-  - 🚀 2024 Goals: "Contribute to more open source projects"
-  - 💬 Ask me about: "Web Development, Cloud Computing, or anything tech!"
-  - ⚡ Fun fact: "I debug with console.log() and I'm not ashamed"
-```
+        @keyframes twinkle {
+            0% { opacity: 0; }
+            50% { opacity: 1; }
+            100% { opacity: 0; }
+        }
 
-</div>
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0px); }
+        }
 
----
+        @keyframes gradientShift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
 
-<div align="center">
-  
-### 🏅 **Coding Stats**
+        .floating {
+            animation: float 4s ease-in-out infinite;
+        }
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dihaxn&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=15">
+        .gradient-animation {
+            background-size: 200% 200%;
+            animation: gradientShift 6s ease infinite;
+        }
 
-</div>
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .header h1 { font-size: 2.2rem; }
+            .header p { font-size: 1.1rem; }
+            .typing-text { font-size: 1.4rem; }
+            .section-title { font-size: 1.8rem; }
+            .stat-value { font-size: 2rem; }
+        }
 
----
+        @media (max-width: 480px) {
+            .header h1 { font-size: 1.8rem; }
+            .typing-text { font-size: 1.2rem; }
+            .section-title { font-size: 1.6rem; }
+            .stats-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <div class="header-content">
+                <h1>Welcome to My Universe</h1>
+                <p>Where Code Meets Creativity</p>
+            </div>
+            <div class="stars" id="stars-container"></div>
+        </div>
 
-<div align="center">
-  
-### 🌟 **Latest Blog Posts**
+        <!-- Profile Intro -->
+        <div class="profile-intro">
+            <div class="avatar floating">
+                <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Profile">
+            </div>
+            <div class="typing-container">
+                <div class="typing-text">
+                    🚀 Full-Stack Developer<br>
+                    🌟 Open-Source Enthusiast<br>
+                    💡 Problem Solver<br>
+                    🔥 Code Architect<br>
+                    ✨ Digital Innovator
+                </div>
+            </div>
+        </div>
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Build Scalable Web Applications](https://your-blog.com/scalable-web-apps)
-- [The Future of Frontend Development](https://your-blog.com/frontend-future)
-- [Mastering Docker for Developers](https://your-blog.com/docker-mastery)
-<!-- BLOG-POST-LIST:END -->
+        <!-- Profile Analytics -->
+        <div class="section">
+            <h2 class="section-title">🌟 Profile Analytics</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value">15.8K</div>
+                    <div class="stat-label">Cosmic Visitors</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">1.2K</div>
+                    <div class="stat-label">GitHub Followers</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">320</div>
+                    <div class="stat-label">GitHub Stars</div>
+                </div>
+            </div>
+        </div>
 
-</div>
+        <!-- Connect Section -->
+        <div class="section">
+            <h2 class="section-title">🎯 Connect With Me</h2>
+            <div class="connect-grid">
+                <a href="https://twitter.com/dihaxn" class="connect-btn twitter">
+                    <i class="fab fa-twitter"></i> Twitter
+                </a>
+                <a href="https://www.linkedin.com/in/dihanlaknuka/" class="connect-btn linkedin">
+                    <i class="fab fa-linkedin"></i> LinkedIn
+                </a>
+                <a href="https://github.com/dihaxn" class="connect-btn github">
+                    <i class="fab fa-github"></i> GitHub
+                </a>
+                <a href="mailto:ihanlaknuka@gmail.com" class="connect-btn email">
+                    <i class="fas fa-envelope"></i> Email
+                </a>
+            </div>
+        </div>
 
----
+        <!-- Tech Skills -->
+        <div class="section">
+            <h2 class="section-title">🛠️ Tech Arsenal & Skills</h2>
+            <h3 class="subtitle">Languages</h3>
+            <div class="skills-grid">
+                <div class="skill-item">
+                    <i class="fab fa-cuttlefish skill-icon"></i>
+                    <span class="skill-label">C++</span>
+                </div>
+                <div class="skill-item">
+                    <i class="fab fa-java skill-icon"></i>
+                    <span class="skill-label">Java</span>
+                </div>
+                <div class="skill-item">
+                    <i class="fab fa-js skill-icon"></i>
+                    <span class="skill-label">JavaScript</span>
+                </div>
+                <div class="skill-item">
+                    <i class="fab fa-python skill-icon"></i>
+                    <span class="skill-label">Python</span>
+                </div>
+                <div class="skill-item">
+                    <i class="fab fa-php skill-icon"></i>
+                    <span class="skill-label">PHP</span>
+                </div>
+                <div class="skill-item">
+                    <i class="fab fa-go skill-icon"></i>
+                    <span class="skill-label">Go</span>
+                </div>
+            </div>
 
-<div align="center">
-  
-### 📊 **Weekly Development Breakdown**
+            <h3 class="subtitle" style="margin-top: 30px;">Frontend Development</h3>
+            <div class="skills-grid">
+                <div class="skill-item">
+                    <i class="fab fa-react skill-icon"></i>
+                    <span class="skill-label">React</span>
+                </div>
+                <div class="skill-item">
+                    <i class="fab fa-vuejs skill-icon"></i>
+                    <span class="skill-label">Vue.js</span>
+                </div>
+                <div class="skill-item">
+                    <i class="fas fa-code skill-icon"></i>
+                    <span class="skill-label">HTML5</span>
+                </div>
+                <div class="skill-item">
+                    <i class="fab fa-css3-alt skill-icon"></i>
+                    <span class="skill-label">CSS3</span>
+                </div>
+                <div class="skill-item">
+                    <i class="fab fa-sass skill-icon"></i>
+                    <span class="skill-label">Sass</span>
+                </div>
+            </div>
+        </div>
 
-```text
-💻 Programming Languages: 
-JavaScript   12 hrs 30 mins  ████████████▓░░░░░░░░░░░░   52.1%
-TypeScript   5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.0%
-Python       3 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   13.6%
-CSS          1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   6.3%
-HTML         1 hr           █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-```
+        <!-- Stats Section -->
+        <div class="section">
+            <h2 class="section-title">📊 Cosmic Statistics</h2>
+            <div class="stats-container">
+                <div class="stats-card">
+                    <div class="stats-header">
+                        <h3>GitHub Stats</h3>
+                        <i class="fas fa-chart-bar"></i>
+                    </div>
+                    <div class="stat-placeholder"></div>
+                </div>
+                <div class="stats-card">
+                    <div class="stats-header">
+                        <h3>Streak Stats</h3>
+                        <i class="fas fa-fire"></i>
+                    </div>
+                    <div class="stat-placeholder"></div>
+                </div>
+            </div>
+            <div class="stats-card">
+                <div class="stats-header">
+                    <h3>Top Languages</h3>
+                    <i class="fas fa-code"></i>
+                </div>
+                <div class="stat-placeholder"></div>
+            </div>
+        </div>
 
-</div>
+        <!-- Fun Facts -->
+        <div class="section">
+            <h2 class="section-title">🌟 Fun Facts About Me</h2>
+            <div class="facts-container">
+                <div class="fact-item">
+                    <div class="fact-icon">🌍</div>
+                    <div class="fact-text">Based in: "The Cloud"</div>
+                </div>
+                <div class="fact-item">
+                    <div class="fact-icon">🎯</div>
+                    <div class="fact-text">Currently learning: "Everything I can get my hands on"</div>
+                </div>
+                <div class="fact-item">
+                    <div class="fact-icon">🎨</div>
+                    <div class="fact-text">Hobbies: ["Coding", "Reading", "Gaming", "Coffee Tasting"]</div>
+                </div>
+                <div class="fact-item">
+                    <div class="fact-icon">🚀</div>
+                    <div class="fact-text">2024 Goals: "Contribute to more open source projects"</div>
+                </div>
+                <div class="fact-item">
+                    <div class="fact-icon">💬</div>
+                    <div class="fact-text">Ask me about: "Web Development, Cloud Computing, or anything tech!"</div>
+                </div>
+                <div class="fact-item">
+                    <div class="fact-icon">⚡</div>
+                    <div class="fact-text">Fun fact: "I debug with console.log() and I'm not ashamed"</div>
+                </div>
+            </div>
+        </div>
 
----
+        <!-- Footer -->
+        <div class="footer">
+            <p>Thanks for Visiting! Let's build something amazing together!</p>
+            <p>⭐ Star some repositories if you found them interesting! ⭐</p>
+        </div>
+    </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Let's%20build%20something%20amazing%20together!&descSize=16&descAlignY=60">
-</div>
+    <script>
+        // Create stars for background
+        function createStars() {
+            const container = document.getElementById('stars-container');
+            const starCount = 150;
+            
+            for (let i = 0; i < starCount; i++) {
+                const star = document.createElement('div');
+                star.classList.add('star');
+                
+                // Random position
+                const posX = Math.random() * 100;
+                const posY = Math.random() * 100;
+                star.style.left = `${posX}%`;
+                star.style.top = `${posY}%`;
+                
+                // Random size
+                const size = Math.random() * 3 + 1;
+                star.style.width = `${size}px`;
+                star.style.height = `${size}px`;
+                
+                // Random animation
+                const duration = Math.random() * 5 + 3;
+                const delay = Math.random() * 5;
+                star.style.setProperty('--duration', `${duration}s`);
+                star.style.setProperty('--delay', `${delay}s`);
+                
+                container.appendChild(star);
+            }
+        }
 
-<div align="center">
-  
-**⭐ Star some repositories if you found them interesting! ⭐**
-
-</div>
+        // Initialize on load
+        document.addEventListener('DOMContentLoaded', () => {
+            createStars();
+            
+            // Add hover effect to all interactive elements
+            const interactiveElements = document.querySelectorAll(
+                '.stat-card, .connect-btn, .skill-item, .stats-card, .section'
+            );
+            
+            interactiveElements.forEach(el => {
+                el.addEventListener('mouseenter', () => {
+                    el.style.transition = 'all 0.3s ease';
+                });
+                
+                el.addEventListener('mouseleave', () => {
+                    el.style.transition = 'all 0.4s ease';
+                });
+            });
+            
+            // Animated typing effect
+            const typingText = document.querySelector('.typing-text');
+            const lines = typingText.innerHTML.split('<br>');
+            typingText.innerHTML = '';
+            
+            let lineIndex = 0;
+            let charIndex = 0;
+            let isDeleting = false;
+            
+            function type() {
+                const currentLine = lines[lineIndex];
+                
+                if (isDeleting) {
+                    typingText.innerHTML = currentLine.substring(0, charIndex - 1);
+                    charIndex--;
+                    
+                    if (charIndex === 0) {
+                        isDeleting = false;
+                        lineIndex = (lineIndex + 1) % lines.length;
+                        setTimeout(type, 500);
+                        return;
+                    }
+                } else {
+                    typingText.innerHTML = currentLine.substring(0, charIndex + 1);
+                    charIndex++;
+                    
+                    if (charIndex === currentLine.length) {
+                        isDeleting = true;
+                        setTimeout(type, 2000);
+                        return;
+                    }
+                }
+                
+                setTimeout(type, isDeleting ? 50 : 100);
+            }
+            
+            setTimeout(type, 1000);
+        });
+    </script>
+</body>
+</html>
