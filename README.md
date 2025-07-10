@@ -5,7 +5,8 @@
 <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px">
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=🚀+Full-Stack+Developer;🌟+Open-Source+Enthusiast;💡+Problem+Solver;🔥+Code+Architect;✨+Digital+Innovator">
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=🚀+Full-Stack+Developer;🌟+Open-Source+Enthusiast;💡+Problem+Solver;🔥+Code+Architect;✨+Digital+Innovator" alt="Typing SVG" />
+
 </div>
 
 ---
