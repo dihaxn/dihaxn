@@ -47,9 +47,6 @@
   <a href="https://www.buymeacoffee.com/ihanlaknukl">
     <img src="https://img.shields.io/badge/Buy_Me_Cosmic_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black&labelColor=0d1117">
   </a>
-  <a href="https://ko-fi.com/dihaxn">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white&labelColor=0d1117">
-  </a>
   <a href="https://github.com/sponsors/dihaxn">
     <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0d1117">
   </a>
