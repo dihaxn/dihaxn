@@ -110,9 +110,10 @@
   
 ### 💭 **Random Dev Quote**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=00D9FF">
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random dev quote">
+</p>
 
-</div>
 
 ---
 
