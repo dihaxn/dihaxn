@@ -217,4 +217,3 @@ HTML         1 hr           █░░░░░░░░░░░░░░░░�
 **⭐ Star some repositories if you found them interesting! ⭐**
 
 </div>
-add suitable css and transition for my github profile
