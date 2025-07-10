@@ -14,25 +14,18 @@
 <div align="center">
 
 
+<!-- GitHub Stats -->
 <img src="https://komarev.com/ghpvc/?username=dihaxn&label=Stellar+Visitors&color=7B68EE&style=for-the-badge&abbreviated=true"> 
 <img src="https://img.shields.io/github/followers/dihaxn?logo=github&style=for-the-badge&color=9370DB&labelColor=0d1117"> 
 <img src="https://img.shields.io/github/stars/dihaxn?logo=github&style=for-the-badge&color=BA55D3&labelColor=0d1117">
-
-</div>
 
 ---
 
 ### 🌠 **Fuel My Cosmic Voyage**
 <p align="center">
-  <a href="https://www.buymeacoffee.com/ihanlaknukl">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
-  <a href="https://github.com/sponsors/dihaxn">
-    <img src="https://img.shields.io/badge/Stellar%20Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=000000" alt="GitHub Sponsors"/>
-  </a>
-  <a href="https://twitter.com/dihaxn">
-    <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=9D4EDD&labelColor=000000" alt="Follow on Twitter"/>
-  </a>
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20%7C%20ihanlaknukl-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  <img src="https://img.shields.io/badge/Stellar%20Sponsor%20%7C%20dihaxn-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=000000" alt="GitHub Sponsors"/>
+  <img src="https://img.shields.io/badge/Follow%20%7C%20@dihaxn-9D4EDD?style=for-the-badge&logo=twitter&labelColor=000000" alt="Follow on Twitter"/>
 </p>
 
 
