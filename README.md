@@ -143,12 +143,13 @@ dihaxn:
 ---
 
 <div align="center">
-  
-### 🏅 **Coding Stats**
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dihaxn&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=15">
-
+  <h3>🏅 <strong>Coding Stats</strong></h3>
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=dihaxn&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=15"
+    alt="Dihan’s WakaTime stats"
+  />
 </div>
+
 
 ---
 
