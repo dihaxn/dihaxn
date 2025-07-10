@@ -123,12 +123,12 @@
 
 ```yaml
 dihaxn:
-  - 🌍 Based in: "The Cloud"
-  - 🎯 Currently learning: "Everything I can get my hands on"
-  - 🎨 Hobbies: ["Coding", "Reading", "Gaming", "Coffee Tasting"]
-  - 🚀 2024 Goals: "Contribute to more open source projects"
-  - 💬 Ask me about: "Web Development, Cloud Computing, or anything tech!"
-  - ⚡ Fun fact: "I debug with console.log() and I'm not ashamed"
+   🌍 Based in: "The Cloud"
+   🎯 Currently learning: "Everything I can get my hands on"
+   🎨 Hobbies: ["Coding", "Reading", "Gaming", "Coffee Tasting"]
+   🚀 2024 Goals: "Contribute to more open source projects"
+   💬 Ask me about: "Web Development, Cloud Computing, or anything tech!"
+   ⚡ Fun fact: "I debug with console.log() and I'm not ashamed"
 ```
 
 </div>
