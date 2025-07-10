@@ -26,10 +26,10 @@
 <p align="center">
   <a href="https://www.buymeacoffee.com/ihanlaknukl">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>&ensp;
+  </a>
   <a href="https://github.com/sponsors/dihaxn">
     <img src="https://img.shields.io/badge/Stellar%20Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=000000" alt="GitHub Sponsors"/>
-  </a>&ensp;
+  </a>
   <a href="https://twitter.com/dihaxn">
     <img src="https://img.shields.io/twitter/follow/dihaxn?logo=twitter&style=for-the-badge&color=9D4EDD&labelColor=000000" alt="Follow on Twitter"/>
   </a>
