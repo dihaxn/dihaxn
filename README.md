@@ -209,7 +209,7 @@ HTML         1 hr           █░░░░░░░░░░░░░░░░�
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Let's%20build%20something%20amazing%20together!&descSize=16&descAlignY=60">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=120&section=footer">
 </div>
 
 <div align="center">
