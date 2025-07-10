@@ -23,15 +23,21 @@
 ---
 
 ### 🌠 **Fuel My Cosmic Voyage**
-
 <p align="center">
-  <a href="https://www.buymeacoffee.com/ihanlaknukl">
-    <img src="https://img.shields.io/badge/☕%20Support-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000" alt="Buy Me Coffee" />
-  </a>
-  <a href="https://github.com/sponsors/dihaxn">
-    <img src="https://img.shields.io/badge/🤝%20Sponsor-24292F?style=flat-square&logo=githubsponsors&logoColor=FFFFFF" alt="GitHub Sponsors" />
+  <a href="https://www.buymeacoffee.com/ihanlaknukl" target="_blank">
+    <img
+      src="https://img.shields.io/badge/☕%20Buy%20Me%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"
+      alt="Buy Me Coffee"
+    />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/sponsors/dihaxn" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🤝%20GitHub%20Sponsors-24292F?style=for-the-badge&logo=githubsponsors&logoColor=FFFFFF"
+      alt="GitHub Sponsors"
+    />
   </a>
 </p>
+
 
 
 
