@@ -60,7 +60,7 @@
   
 ### 📊 **Cosmic Statistics**
 
-<img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=15&hide_border=false&include_all_commits=true&count_private=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=15&hide_border=false&include_all_commits=true&count_private=true" width="48%" ><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=tokyonight&background=0D1117&border=00D9FF&stroke=00D9FF&dates=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&border_radius=15" width="48%">
 
 </div>
