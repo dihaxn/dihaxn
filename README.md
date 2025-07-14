@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&theme=midnight-purple&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&theme=midnight-purple&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -158,7 +158,7 @@ HTML         1 hr            █░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&theme=midnight-purple" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&theme=midnight-purple" />
 </div>
 
 <div align="center">
