@@ -1,116 +1,127 @@
 <div align="center">
 
-# Hey, I'm Dihan 👋
+# Hi, I'm Dihan Laknuka 👋
 
-**Full-Stack Developer · Cloud Enthusiast · Open Source Contributor**
+### Full-Stack Developer | React • Spring Boot • Laravel • MySQL
+
+I build modern web applications, backend systems, and business software solutions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://dihaxn.dev)
-[![Twitter](https://img.shields.io/badge/@dihaxn-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dihaxn)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ihanlaknukl)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/dihaxn)
+[![GitHub](https://img.shields.io/badge/GitHub-dihaxn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dihaxn)
+[![Twitter](https://img.shields.io/badge/Twitter-@dihaxn-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dihaxn)
 
 </div>
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
-I'm a developer who loves building things for the web and the cloud. I work across the full stack — from crafting responsive frontends to designing scalable backend systems. I'm always exploring new tools, contributing to open source, and looking for the next interesting problem to solve.
+I'm a passionate full-stack developer from Sri Lanka with experience in building web applications, management systems, and business-focused software solutions.
 
-- 🔭 &nbsp;Currently working on full-stack web applications
-- 🌱 &nbsp;Always learning — right now diving deeper into cloud architecture
-- 💬 &nbsp;Ask me about web development, cloud computing, or anything tech
-- ⚡ &nbsp;Fun fact: I debug with `console.log()` and I'm not ashamed
+I enjoy working with frontend technologies, backend APIs, databases, and cloud-based tools to create complete, reliable, and user-friendly applications.
+
+- 🎓 Undergraduate in Computer Science
+- 💼 Full-stack development experience
+- 🚀 Interested in SaaS, business automation, POS systems, and e-commerce platforms
+- 🌱 Currently improving my skills in cloud architecture, scalable systems, and modern web development
+- 💬 Ask me about React, Spring Boot, Laravel, MySQL, Java, or full-stack project development
 
 ---
 
-### Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frontend**
+### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Backend**
+### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Database & Cloud**
+### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Tools**
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### GitHub Stats
+## 🚀 What I Build
+
+- Business management systems
+- POS systems
+- E-commerce platforms
+- Admin dashboards
+- REST APIs
+- Authentication systems
+- Database-driven applications
+- Automation tools and chatbot solutions
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&hide_border=true&background=00000000" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihaxn&layout=compact&hide_border=true&bg_color=00000000&langs_count=8&card_width=600" />
-</div>
 
----
-
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dihaxn&theme=github-light&hide_border=true&area=true" width="100%" />
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dihaxn&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihaxn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
 
 </div>
 
 ---
 
+## 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dihaxn&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+---
+
+## 📫 Connect With Me
+
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=dihaxn&label=Profile+Views&color=grey&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-dihaxn-181717?style=for-the-badge&logo=github)](https://github.com/dihaxn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dihaxn.dev-000000?style=for-the-badge&logo=vercel)](https://dihaxn.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-@dihaxn-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/dihaxn)
 
-**If you find any of my projects useful, consider giving them a ⭐**
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20Views&color=blueviolet&style=flat-square)
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
