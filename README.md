@@ -4,9 +4,9 @@
 
 ### Full-Stack Developer | React • Spring Boot • Laravel • MySQL
 
-I build modern web applications, backend systems, and business software solutions.
+I build modern web applications, backend systems, POS systems, e-commerce platforms, and business automation solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://dihaxn.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dihaxn.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://dihaxn.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-dihaxn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dihaxn)
 [![Twitter](https://img.shields.io/badge/Twitter-@dihaxn-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dihaxn)
 
@@ -16,15 +16,15 @@ I build modern web applications, backend systems, and business software solution
 
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack developer from Sri Lanka with experience in building web applications, management systems, and business-focused software solutions.
+I'm a full-stack developer from Sri Lanka with experience in building web applications, backend APIs, business management systems, POS systems, and e-commerce platforms.
 
-I enjoy working with frontend technologies, backend APIs, databases, and cloud-based tools to create complete, reliable, and user-friendly applications.
+I enjoy working with frontend, backend, databases, and cloud-based tools to create reliable and user-friendly software solutions.
 
 - 🎓 Undergraduate in Computer Science
-- 💼 Full-stack development experience
+- 💼 Completed one year internship as a Full-Stack Developer
 - 🚀 Interested in SaaS, business automation, POS systems, and e-commerce platforms
-- 🌱 Currently improving my skills in cloud architecture, scalable systems, and modern web development
-- 💬 Ask me about React, Spring Boot, Laravel, MySQL, Java, or full-stack project development
+- 🌱 Currently improving my skills in cloud architecture and scalable systems
+- 💬 Ask me about React, Spring Boot, Laravel, MySQL, Java, and full-stack development
 
 ---
 
@@ -53,7 +53,7 @@ I enjoy working with frontend technologies, backend APIs, databases, and cloud-b
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### Database
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -73,7 +73,7 @@ I enjoy working with frontend technologies, backend APIs, databases, and cloud-b
 
 - Business management systems
 - POS systems
-- E-commerce platforms
+- E-commerce websites
 - Admin dashboards
 - REST APIs
 - Authentication systems
