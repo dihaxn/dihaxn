@@ -6,9 +6,7 @@
 
 I build modern web applications, backend systems, POS systems, e-commerce platforms, and business automation solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dihaxn.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://dihaxn.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-dihaxn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dihaxn)
-[![Twitter](https://img.shields.io/badge/Twitter-@dihaxn-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dihaxn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dihaxn.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://dihanlaknuka.online)
 
 </div>
 
