@@ -82,39 +82,9 @@ I enjoy working with frontend, backend, databases, and cloud-based tools to crea
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dihaxn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dihaxn&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihaxn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
-
-</div>
-
----
-
 ## 📈 Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dihaxn&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-dihaxn-181717?style=for-the-badge&logo=github)](https://github.com/dihaxn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dihaxn.dev-000000?style=for-the-badge&logo=vercel)](https://dihaxn.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-@dihaxn-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/dihaxn)
-
-</div>
 
 ---
 
