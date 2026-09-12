@@ -6,7 +6,7 @@
 
 Building practical web applications, APIs, business systems and automation tools.
 
-`React` · `Spring Boot` · `Laravel` · `MySQL` · `Docker`
+`React` · `Next.js` · `.NET` · `Laravel` · `Supabase` · `PostgreSQL`
 
 [Portfolio](https://dihanlaknuka.online) · [GitHub](https://github.com/dihaxn)
 
@@ -18,7 +18,7 @@ Building practical web applications, APIs, business systems and automation tools
 
 I'm a **Computer Science undergraduate and Full-Stack Developer from Sri Lanka**, focused on building reliable, scalable and user-friendly software.
 
-I enjoy working across the complete development cycle — from designing interfaces and APIs to databases, deployment and automation.
+I enjoy working across the complete development cycle — from frontend interfaces and backend APIs to databases, deployment and automation.
 
 Currently interested in:
 
@@ -38,15 +38,15 @@ Currently interested in:
 
 **Backend**
 
-`Spring Boot` `Laravel` `Node.js` `Express.js`
+`.NET` `ASP.NET Core` `Laravel` `Node.js` `Express.js`
 
 **Languages**
 
-`Java` `JavaScript` `TypeScript` `PHP` `C#` `C++`
+`C#` `JavaScript` `TypeScript` `Java` `PHP` `C++`
 
-**Databases**
+**Databases & Backend Services**
 
-`MySQL` `SQL Server` `MongoDB`
+`PostgreSQL` `MySQL` `MongoDB` `SQL Server` `Ingres` `Supabase`
 
 **Tools & DevOps**
 
