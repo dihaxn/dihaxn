@@ -16,7 +16,7 @@ Building practical web applications, APIs, business systems and automation tools
 
 I'm a **Computer Science undergraduate and Full-Stack Developer from Sri Lanka**, focused on building reliable, scalable and user-friendly software.
 
-I enjoy working across the complete development cycle — from frontend interfaces and backend APIs to databases, deployment and automation.
+I enjoy working across the complete development cycle - from frontend interfaces and backend APIs to databases, deployment and automation.
 
 Currently exploring:
 
@@ -62,17 +62,6 @@ Business Systems       POS Systems
 E-Commerce             Admin Dashboards
 Authentication         Automation
 ```
-
----
-
-## Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-dihanlaknuka.online-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://dihanlaknuka.online)
-[![GitHub](https://img.shields.io/badge/GitHub-dihaxn-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dihaxn)
-
-</div>
 
 ---
 
