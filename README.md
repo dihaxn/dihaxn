@@ -67,16 +67,6 @@ Authentication         Automation
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dihaxn&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
