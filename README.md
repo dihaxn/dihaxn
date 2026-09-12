@@ -18,14 +18,6 @@ I'm a **Computer Science undergraduate and Full-Stack Developer from Sri Lanka**
 
 I enjoy working across the complete development cycle - from frontend interfaces and backend APIs to databases, deployment and automation.
 
-Currently exploring:
-
-* SaaS & business automation
-* POS and management systems
-* E-commerce platforms
-* Cloud architecture
-* Scalable backend systems
-
 **Open to collaborating on interesting software projects and ideas.**
 
 ---
