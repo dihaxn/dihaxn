@@ -1,95 +1,87 @@
 <div align="center">
 
-# Hi, I'm Dihan Laknuka 👋
+# Dihan Laknuka
 
-### Full-Stack Developer | React • Spring Boot • Laravel • MySQL
+### Full-Stack Developer
 
-I build modern web applications, backend systems, POS systems, e-commerce platforms, and business automation solutions.
+Building practical web applications, APIs, business systems and automation tools.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dihaxn-000000?style=flat-square&logo=vercel&logoColor=white)](https://dihanlaknuka.online)
+`React` · `Spring Boot` · `Laravel` · `MySQL` · `Docker`
+
+[Portfolio](https://dihanlaknuka.online) · [GitHub](https://github.com/dihaxn)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a full-stack developer from Sri Lanka with experience in building web applications, backend APIs, business management systems, POS systems, and e-commerce platforms.
+I'm a **Computer Science undergraduate and Full-Stack Developer from Sri Lanka**, focused on building reliable, scalable and user-friendly software.
 
-I enjoy working with frontend, backend, databases, and cloud-based tools to create reliable and user-friendly software solutions.
+I enjoy working across the complete development cycle — from designing interfaces and APIs to databases, deployment and automation.
 
-- 🎓 Undergraduate in Computer Science
-- 💼 Completed one year internship as a Full-Stack Developer
-- 🚀 Interested in SaaS, business automation, POS systems, and e-commerce platforms
-- 🌱 Currently improving my skills in cloud architecture and scalable systems
-- 💬 Ask me about React, Spring Boot, Laravel, MySQL, Java, and full-stack development
+Currently interested in:
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+* SaaS & business automation
+* POS and management systems
+* E-commerce platforms
+* Cloud architecture
+* Scalable backend systems
 
 ---
 
-## 🚀 What I Build
+## Tech Stack
 
-- Business management systems
-- POS systems
-- E-commerce websites
-- Admin dashboards
-- REST APIs
-- Authentication systems
-- Database-driven applications
-- Automation tools and chatbot solutions
+**Frontend**
+
+`React` `Next.js` `TypeScript` `Tailwind CSS`
+
+**Backend**
+
+`Spring Boot` `Laravel` `Node.js` `Express.js`
+
+**Languages**
+
+`Java` `JavaScript` `TypeScript` `PHP` `C#` `C++`
+
+**Databases**
+
+`MySQL` `SQL Server` `MongoDB`
+
+**Tools & DevOps**
+
+`Git` `GitHub` `Docker` `Postman` `Linux`
 
 ---
 
-## 📈 Activity
+## What I Work On
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dihaxn&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+```text
+Web Applications       REST APIs
+Business Systems       POS Systems
+E-Commerce             Admin Dashboards
+Authentication         Automation
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dihaxn&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dihaxn&label=Profile%20Views&color=blueviolet&style=flat-square)
+### Let's build something useful.
 
-### ⭐ Thanks for visiting my profile!
+[![Portfolio](https://img.shields.io/badge/Portfolio-dihanlaknuka.online-111111?style=flat-square)](https://dihanlaknuka.online)
+[![GitHub](https://img.shields.io/badge/GitHub-dihaxn-111111?style=flat-square\&logo=github)](https://github.com/dihaxn)
+
+<sub>Thanks for visiting.</sub>
 
 </div>
