@@ -8,8 +8,6 @@ Building practical web applications, APIs, business systems and automation tools
 
 `React` · `Next.js` · `.NET` · `Laravel` · `Supabase` · `PostgreSQL`
 
-[Portfolio](https://dihanlaknuka.online) · [GitHub](https://github.com/dihaxn)
-
 </div>
 
 ---
